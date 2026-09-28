@@ -90,16 +90,7 @@ Ringkasnya: siapkan Google Sheet dari template, ganti dua placeholder di file wo
 |---|---|---|
 | ![Canvas workflow](images/workflow-canvas.png) | ![Konfirmasi laporan](images/demo-lapor.png) | ![ACC Owner](images/demo-acc-owner.png) |
 
-## Hasil
-
-> Isi bagian ini dengan hasil nyata dan jujur, misalnya jumlah pengguna, jumlah laporan yang tercatat, atau waktu yang dihemat. Kalau belum ada angkanya, hapus bagian ini.
-
-## Rencana Pengembangan
-
-- Merapikan alur `approve_user` lewat chat bebas. Saat ini jalur yang disarankan adalah tombol Terima/Tolak.
-- Menambah pengujian otomatis untuk Code node yang berisi logika validasi.
-- Notifikasi ringkasan harian untuk Owner.
 
 ## Pembuat
 
-Nama kamu · [GitHub](https://github.com/USERNAME) · [LinkedIn](https://linkedin.com/in/USERNAME)
+Muhamad Vicky Oktafrian · [GitHub](https://github.com/VickyOktafrian) · [LinkedIn](din.com/in/muhamad-vicky-oktafrian/)
