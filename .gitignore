@@ -1,0 +1,13 @@
+# Jangan pernah commit ekspor mentah n8n atau rahasia
+*.raw.json
+*-mentah.json
+*.local.json
+.env
+.env.*
+*.pem
+*.key
+
+# Sistem
+.DS_Store
+Thumbs.db
+__pycache__/
